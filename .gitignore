@@ -2,8 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.pyc
-*$pyc
+mysite/__pycache__/
+__pycache__\
 
 # Django stuff:
 *.log
